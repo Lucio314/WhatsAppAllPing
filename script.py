@@ -7,7 +7,7 @@ time.sleep(1)
 print("Initialisation du script......")
 time.sleep(2)
 input(
-    "Appuyez sur la touche Entrer pour activer le script et \n déplacez vous rapidement dans  la discussion du groupe"
+    "Appuyez sur la touche Entrer pour activer le script et \n déplacez vous rapidement dans  la discussion du groupe: "
 )
 
 time.sleep(2)

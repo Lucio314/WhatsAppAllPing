@@ -1,4 +1,6 @@
 # WhatsAppAllPing
+# Version de python utilisée 
+ python 3.12.2
 Pingez rapidement et automatiquement tous les participants d'un groupe WhatsApp en utilisant ce script Python.
 Fonctionne uniquement sur WhatsApp Web et le client de bureau.
 
